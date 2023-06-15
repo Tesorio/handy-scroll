@@ -1,3 +1,5 @@
+This fork was created so that we can add the dist css to the `exports` within the package.json so that it can be properly consumed. See https://github.com/Amphiluke/handy-scroll/pull/20
+
 # handy-scroll
 
 Handy dependency-free floating scrollbar widget
